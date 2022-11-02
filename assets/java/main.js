@@ -51,4 +51,4 @@ function newElement() {
             div.style.display = "none";
         }
     }
-}
+}tr,t
